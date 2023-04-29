@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/zey/MAAR_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zey/MAAR_ws/install -G Unix Makefiles
