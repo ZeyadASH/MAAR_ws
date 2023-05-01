@@ -131,6 +131,12 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/zey/MAAR_ws/build/gtest/cmake_install.cmake")
+  include("/home/zey/MAAR_ws/build/ReallyUsefulRobot/ROS/rur_navigation/cmake_install.cmake")
+  include("/home/zey/MAAR_ws/build/demo_pkg/cmake_install.cmake")
+  include("/home/zey/MAAR_ws/build/ReallyUsefulRobot/ROS/rur_detailed_description/cmake_install.cmake")
+  include("/home/zey/MAAR_ws/build/ReallyUsefulRobot/ROS/rur_gazebo/cmake_install.cmake")
+  include("/home/zey/MAAR_ws/build/ReallyUsefulRobot/ROS/rur_description/cmake_install.cmake")
+  include("/home/zey/MAAR_ws/build/ReallyUsefulRobot/ROS/rur/cmake_install.cmake")
 
 endif()
 

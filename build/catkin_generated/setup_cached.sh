@@ -8,6 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/zey/MAAR_ws/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/zey/MAAR_ws/devel/lib:$LD_LIBRARY_PATH"
 export PWD='/home/zey/MAAR_ws/build'
 export ROSLISP_PACKAGE_DIRECTORIES='/home/zey/MAAR_ws/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/zey/MAAR_ws/src:$ROS_PACKAGE_PATH"

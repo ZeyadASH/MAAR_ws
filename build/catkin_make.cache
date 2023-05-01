@@ -1,2 +1,2 @@
-
+ReallyUsefulRobot/ROS/rur:ReallyUsefulRobot/ROS/rur_description:ReallyUsefulRobot/ROS/rur_detailed_description:ReallyUsefulRobot/ROS/rur_gazebo:ReallyUsefulRobot/ROS/rur_navigation:demo_pkg
 -DCATKIN_DEVEL_PREFIX=/home/zey/MAAR_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zey/MAAR_ws/install -G Unix Makefiles
